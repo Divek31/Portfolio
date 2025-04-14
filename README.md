@@ -1,4 +1,4 @@
-# DarkWorld Portfolio
+# Divek Portfolio
 
 Welcome to my personal portfolio website! 👋  
 This site showcases who I am, what I do, and the skills I'm building in web development, software, and cybersecurity.
